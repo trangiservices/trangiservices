@@ -20,6 +20,5 @@
               <strong>New Zealand</strong></span>
     <div class="jumbotron">
         <h1></h1>
-      sales@trangiit.com
-  Copyright <span style="text-align: left">2021</span> © TIS <span style="text-align: center"></span>All Rights Reserved.</span>        </div>
+     Copyright <span style="text-align: left">2021</span> © TIS <span style="text-align: center"></span>All Rights Reserved.</span>        </div>
       </div>
